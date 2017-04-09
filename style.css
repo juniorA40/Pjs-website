@@ -1,0 +1,45 @@
+body{
+font-family: cursive;
+background-color: lightblue;
+}
+
+#Header{
+    text-align: center;
+}
+.hello{
+    background-color: #00000;
+}
+
+#para{
+    text-align: center;
+}
+
+.graph2{
+    float: right;
+}
+
+.bullet1{
+    float: right;
+}
+
+.bullet2{
+    float: right;
+}
+
+.Olympics{
+    float: right;
+}
+
+.Runner{
+    float:left;
+    float:right;
+}
+
+.Hurdle{
+    float: left;
+    float:right;
+}
+
+.hi{
+    text-align: center;
+}
